@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "812682744706",
+    "firebase_url": "https://fir-auth-5e800.firebaseio.com",
+    "project_id": "fir-auth-5e800",
+    "storage_bucket": "fir-auth-5e800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812682744706:android:102921316154b7c9",
+        "android_client_info": {
+          "package_name": "com.example.dell.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812682744706-jlf1oh7b93084tbik5fddnfh0n4823k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUohgCo41JWIiCRn082mTObctL8RWH1ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
